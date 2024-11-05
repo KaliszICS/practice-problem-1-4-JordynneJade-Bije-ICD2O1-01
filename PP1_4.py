@@ -1,8 +1,8 @@
 
 
 def q1():
-  words = input("Input a word: ")
-  print(words)
+  word = input("Input a word: ")
+  print(word)
 def q2():
   name = input("Input your first name:")
   print("Hello " + name)
@@ -10,7 +10,7 @@ def q2():
 def q3():
   firstName = input("Input your first name: ")
   lastName = input("Input your last name: ")
-  word = f"{lastName} {firstName}"
+  word = (f"{lastName} {firstName}")
   print(word)
 
 def q4():
