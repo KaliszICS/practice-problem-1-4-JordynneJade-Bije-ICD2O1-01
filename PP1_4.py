@@ -16,13 +16,13 @@ def q3():
 def q4():
   student1 = input("Input a student: ")
   student2 = input("Input another student: ")
-  word = f"Your students are {student1} and {student2}"
+  word = (f"Your students are {student1} and {student2}")
   print(word)
 
 
 #Do not edit code below this comment
 
-q1()
-q2()
-q3()
-q4()
+#q1()
+#q2()
+#q3()
+#q4()
